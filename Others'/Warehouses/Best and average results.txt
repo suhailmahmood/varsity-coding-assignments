@@ -1,0 +1,40 @@
+Generation: 1
+Best in this generation: 3265819
+Average in this generation: 5331219.190929392
+
+Generation: 2
+Best in this generation: 3096064
+Average in this generation: 4678565.4543122295
+
+Generation: 3
+Best in this generation: 3096064
+Average in this generation: 4570194.137339268
+
+Generation: 4
+Best in this generation: 3051351
+Average in this generation: 4675367.137241176
+
+Generation: 5
+Best in this generation: 2907176
+Average in this generation: 4272592.716957103
+
+Generation: 6
+Best in this generation: 2907176
+Average in this generation: 4461401.991543514
+
+Generation: 7
+Best in this generation: 2628727
+Average in this generation: 4420652.975390688
+
+Generation: 8
+Best in this generation: 2628727
+Average in this generation: 4278096.054823856
+
+Generation: 9
+Best in this generation: 2628727
+Average in this generation: 4155409.2957363245
+
+Generation: 10
+Best in this generation: 2380769
+Average in this generation: 3938718.033446293
+
